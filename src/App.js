@@ -101,4 +101,5 @@ function App() {
   )
 }
 
+//exporta a função padrão
 export default App
